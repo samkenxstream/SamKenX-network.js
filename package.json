@@ -55,7 +55,7 @@
     "eslint-config-prettier": "^4.3.0",
     "eslint-plugin-prettier": "^3.1.0",
     "husky": "^2.4.0",
-    "jest": "^24.8.0",
+    "jest": "^29.3.1",
     "lint-staged": "^9.2.5",
     "openzeppelin-docs-utils": "github:OpenZeppelin/docs-utils",
     "prettier": "^1.18.2",
